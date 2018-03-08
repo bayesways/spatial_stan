@@ -2,8 +2,14 @@
 
 ## Setup
 
+Initial install:
+
     $ conda env create -f environment.yml
     $ source activate spatial_stan
+
+Update:
+
+    $ conda env update -f environment.yml
 
 Useful links:
 
