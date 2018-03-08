@@ -11,6 +11,10 @@ Update:
 
     $ conda env update -f environment.yml
 
+Remove:
+
+    $ conda remove -n spatial_stan --all
+
 Useful links:
 
 * https://automating-gis-processes.github.io/2016/Lesson1-Intro-Python-GIS.html
