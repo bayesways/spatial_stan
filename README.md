@@ -13,7 +13,7 @@ Update:
 
 Remove:
 
-    $ conda remove --name spatial_stan --all
+    $ conda remove -n spatial_stan --all
 
 Useful links:
 
