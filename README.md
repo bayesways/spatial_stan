@@ -1,5 +1,16 @@
 # Spatial Models in Stan
 
+## Setup
+
+Initial install:
+
+    $ conda env create -f environment.yml
+    $ source activate spatial_stan
+
+Update:
+
+    $ conda env update -f environment.yml
+
 Useful links:
 
 * https://automating-gis-processes.github.io/2016/Lesson1-Intro-Python-GIS.html
